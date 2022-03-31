@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBot", "TelegramBot\TelegramBot.csproj", "{187DCDC9-1B3A-44B7-BDC2-0F400BBD36DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TfsLib", "TfsLib\TfsLib.csproj", "{62BC9902-A200-46DB-A5F6-675D324559E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketLib", "RocketLib\RocketLib.csproj", "{58186C28-D614-4267-B4C1-68D2E5B40ED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{5F02A846-E3C4-486D-AE5D-EC365F9B8A08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{187DCDC9-1B3A-44B7-BDC2-0F400BBD36DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187DCDC9-1B3A-44B7-BDC2-0F400BBD36DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187DCDC9-1B3A-44B7-BDC2-0F400BBD36DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187DCDC9-1B3A-44B7-BDC2-0F400BBD36DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62BC9902-A200-46DB-A5F6-675D324559E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BC9902-A200-46DB-A5F6-675D324559E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BC9902-A200-46DB-A5F6-675D324559E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BC9902-A200-46DB-A5F6-675D324559E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58186C28-D614-4267-B4C1-68D2E5B40ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58186C28-D614-4267-B4C1-68D2E5B40ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58186C28-D614-4267-B4C1-68D2E5B40ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58186C28-D614-4267-B4C1-68D2E5B40ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F02A846-E3C4-486D-AE5D-EC365F9B8A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F02A846-E3C4-486D-AE5D-EC365F9B8A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F02A846-E3C4-486D-AE5D-EC365F9B8A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F02A846-E3C4-486D-AE5D-EC365F9B8A08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

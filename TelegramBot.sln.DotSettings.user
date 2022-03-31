@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\a.sheglov\.nuget\packages\tfs.api\11.0.50727.1\lib\Microsoft.TeamFoundation.Common.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\a.sheglov\.nuget\packages\microsoft.teamfoundationserver.client\16.201.0-preview\lib\netstandard2.0\Microsoft.TeamFoundation.Build2.WebApi.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9d57f80c_002D592e_002D42c1_002Da0fd_002D60d68661a57e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F02A846-E3C4-486D-AE5D-EC365F9B8A08::net5.0::Tests.Telegram.BotLogin.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::5F02A846-E3C4-486D-AE5D-EC365F9B8A08::net5.0::Tests.Tfs.Base.Connect&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
